@@ -22,12 +22,15 @@ Users should be able to:
 ### Screenshot
 
 _1. Social links profile desktop display_
+
 ![](./assets/images/Social_links_profile_view.png)
 
 _2.Social links profile desktop active stage display_
+
 ![](./assets/images/Social_links_profile_hover_stage_view.png)
 
 _3.Social links profile mobile display_
+
 ![](./assets/images/Social_links_profile_mobile_view.png)
 
 
@@ -74,7 +77,7 @@ _3.Social links profile mobile display_
     </div>
   </div>
 ```
-> Using Flexbox then add a gap of 30px to seperate eacb div
+> Using Flexbox then add a gap of 30px to seperate each div
 
 ### Continued development
 
@@ -82,5 +85,5 @@ _3.Social links profile mobile display_
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/auringuyen222)
+- Frontend Mentor - [@auri222](https://www.frontendmentor.io/profile/auringuyen222)
 
