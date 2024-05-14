@@ -36,8 +36,8 @@ _3.Social links profile mobile display_
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+<!-- - Solution URL: [Add solution URL here](https://your-solution-url.com) -->
+- Live Site URL: [Social links profile page](https://auri222.github.io/Social-links-profile-HTML-CSS/)
 
 ## My process
 
